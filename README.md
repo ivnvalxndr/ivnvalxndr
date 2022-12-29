@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @majorjk228
+- 👋 Hi, I’m Alexnadr @majorjk228
 - 👀 I’m interested in C# developing
 - 🌱 I’m currently learning C# ASP.NET, microservises
 - 💞️ I’m looking to collaborate on ...
