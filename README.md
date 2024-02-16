@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexandr, 23 y.o. Backend .NET Developer
+- 👋 Hi, I’m Alexandr, 24 y.o. Backend .NET Developer
 - 🏙 from Perm, Russia. +5 UTC, +2 MSK
 - 👀 I’m interested in C#, MSSQL, OracleSQL, PostgreSQL, MySQL
 - 🌱 I’m currently learning C# ASP.NET, microservises
