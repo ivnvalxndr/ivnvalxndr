@@ -3,7 +3,7 @@
 - 👀 I’m interested in C#, MSSQL, OracleSQL, PostgreSQL, MySQL
 - 🌱 I’m currently learning C# ASP.NET, microservises
 - 📣 Speak Russian(Native), English(B2-C1)
-- 📫 How to reach me: tg @luvdev
+- 📫 How to reach me: tg @ivnvalxndr
 
 
 
