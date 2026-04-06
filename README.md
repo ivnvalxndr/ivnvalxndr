@@ -49,7 +49,7 @@
 | Показатель | Статистика |
 | :--- | :--- |
 | **Активность** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivnvalxndr&show_icons=true&theme=tokyonight&hide_title=true&hide=contribs) |
-| **Самые частые языки** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivnvalxndr&layout=compact&theme=tokyonight) |
+| **Самые частые языки** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivnvalxndr&layout=compact&theme=tokyonight&hide=html,css,javascript,jupyter%20notebook,typescript,scss,less,vue,php&langs_count=6&hide_title=true) |
 | **Стрессоустойчивость** | ![GitHub Streak](https://streak-stats.demolab.com?user=ivnvalxndr&theme=tokyonight&hide_border=true) |
 
 ---
