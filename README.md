@@ -42,18 +42,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 Статистика GitHub
-
-| Показатель | Статистика |
-| :--- | :--- |
-| **Активность** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivnvalxndr&show_icons=true&theme=tokyonight&hide_title=true&hide=contribs) |
-| **Самые частые языки** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivnvalxndr&layout=compact&theme=tokyonight&hide=html,css,javascript&cache_seconds=86400) |
-| **Стрессоустойчивость** | ![GitHub Streak](https://streak-stats.demolab.com?user=ivnvalxndr&theme=tokyonight&hide_border=true) |
-
----
-
 ### 📫 Контакты
 
 *   💬 **Telegram:** [@ivnvalxndr](https://t.me/ivnvalxndr)
